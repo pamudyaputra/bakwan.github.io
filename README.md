@@ -1,2 +1,2 @@
-# buck1.github.io
+# bakwan.github.io
 Kelompok B1
